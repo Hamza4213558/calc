@@ -1,6 +1,6 @@
 import unittest
 
-from calc import calcadd
+from Calc import calcadd
 
 class TestCalc(unittest.TestCase):
 
@@ -12,4 +12,4 @@ class TestCalc(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main() 
